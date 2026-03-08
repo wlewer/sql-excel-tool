@@ -7,7 +7,7 @@ Excel转SQL语句生成器‌
 ‌高级特性‌：支持自定义目标表名与主键字段，并提供数据预览功能以确保转换准确性。‌
 
 #### 使用说明
-![输入图片说明](image.png)
+![输入图片说明](UI.png)
 #### 参与贡献
 
 1.  Fork 本仓库
@@ -23,4 +23,5 @@ Excel转SQL语句生成器‌
 3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
+
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
