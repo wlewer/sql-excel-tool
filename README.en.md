@@ -1,10 +1,7 @@
 # sql-excel-tool
 
 #### Description
-Excel转SQL语句生成器‌
-‌功能描述‌：此工具能够快速将Excel表格中的数据转换为可直接执行的SQL语句。‌
-‌主要应用‌：适用于需要将Excel中的批量数据导入数据库的场景。用户只需上传Excel文件中的表头与数据，即可生成对应的INSERT、UPDATE、DELETE语句。‌
-‌高级特性‌：支持自定义目标表名与主键字段，并提供数据预览功能以确保转换准确性。‌
+Excel to SQL Statement Generator‌ ‌Function Description‌: This tool can quickly convert data in Excel tables into directly executable SQL statements. ‌ ‌Main applications‌: Suitable for scenarios where batch data in Excel needs to be imported into the database. Users only need to upload the header and data in the Excel file to generate the corresponding INSERT, UPDATE, and DELETE statements. ‌ ‌Advanced features‌: Supports customizing target table names and primary key fields, and provides data preview function to ensure conversion accuracy. ‌
 
 #### Software Architecture
 Software architecture description
