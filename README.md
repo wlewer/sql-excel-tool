@@ -8,6 +8,8 @@ Excel转SQL语句生成器‌
 
 #### 使用说明
 ![输入图片说明](Imgs/UI.png)
+====
+![输入图片说明](Imgs/UI-1.png)
 #### 参与贡献
 
 1.  Fork 本仓库
@@ -25,4 +27,5 @@ Excel转SQL语句生成器‌
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
 
